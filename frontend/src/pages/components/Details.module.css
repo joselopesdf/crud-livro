@@ -1,0 +1,22 @@
+.book_details{
+    background-color: aquamarine;
+    width: 400px;
+    margin: 50px auto;
+    padding: 15px 8px;
+    
+}
+
+.book_content{
+    margin-bottom: 12px;
+    display: flex;
+    justify-content: space-between;
+}
+.text_title{
+    font-size: 1.2em;
+    font-weight:bold;
+}
+.text_value{
+    font-size: 1.1em;
+    font-weight:bold;
+
+}

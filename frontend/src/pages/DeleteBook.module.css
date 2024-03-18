@@ -1,0 +1,21 @@
+.container{
+ border: solid  gold 4px; 
+ border-radius:15px;
+margin: auto;
+width: 400px;
+margin-top:5%;
+text-align: center;
+padding-bottom:20px;
+
+
+}
+.btn{
+    background-color: red;
+    color: white;
+    width: 200px;
+    padding:5px;
+}
+.title{
+    font-size: 1.3em;
+    font-weight:bold;
+}
